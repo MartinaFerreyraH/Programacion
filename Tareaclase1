@@ -1,0 +1,17 @@
+<!DOCTYPE html> 
+<html></html>
+<head>
+    <title>PAGINA CURSO</title>
+</head>
+<body>
+    <h1>MEGA TITULO</h1>
+    <h2>SUPER TITULO</h2>
+    <h3>TITULO</h3>
+    <h4>TITULO CHIQUITO</h4>
+    <h5>TODAVÍA MAS CHIQUITO</h5>
+    <h6>TITULO PETTIT</h6>
+<p>
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed urna lorem, tristique in porttitor interdum, mollis sit amet est. Donec porta purus sed erat vulputate, ac laoreet justo egestas. Pellentesque convallis in nulla eu vehicula. Phasellus metus dui, molestie ac felis a, finibus bibendum est. Mauris aliquet ex metus, vitae bibendum felis condimentum non. Phasellus at lacus et arcu sodales fermentum. Nullam ornare augue hendrerit lorem bibendum pharetra. Phasellus et consequat nisl, a vulputate lectus. Pellentesque auctor leo non diam faucibus congue. Cras eu nunc sodales metus tempus porta. Nam posuere erat quis viverra venenatis. Fusce dignissim tristique justo, vitae cursus risus malesuada ut. Sed pharetra vitae felis quis sollicitudin.
+</p>
+<img src="https://i.blogs.es/74a70a/juegos-del-hambre-poster/1366_2000.jpg" alt="Imagen loogo sinsajo en llamas de los juegos del hambre">
+</body>
